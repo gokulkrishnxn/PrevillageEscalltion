@@ -12,7 +12,9 @@ YOU USE THE NUMBERS TO TELL WHAT DO WITH THE TOOLS ON WINDOWS SYSTEM'S THERE SOM
 
 
 # FOR LINUXS
-![Screenshot_2022-03-04_02_59_46](https://user-images.githubusercontent.com/63335983/156723190-9e3795b9-2c16-421d-bc2b-771fe1fafc72.png)
+
+![image](https://user-images.githubusercontent.com/63335983/156723644-05d8b241-eaa2-4fbe-b2d8-264677e6727c.png)
+
 
 * python3 [file-name.py]
 * chmod +x [file-name.py] 
